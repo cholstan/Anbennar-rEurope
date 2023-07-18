@@ -20,11 +20,13 @@ country_event = {
 		###MANUALLY SETTING THE FLAGS FOR WHICH REGIONS TO DELETE FOR CAMPAIGN
 		# set_global_flag = delete_east_serpentspine_region
 		# set_global_flag = delete_west_serpentspine_region
-		# set_global_flag = delete_deepwoods_region
+		 set_global_flag = delete_deepwoods_region
 		# set_global_flag = delete_south_aelantir_region
 		# set_global_flag = delete_north_aelantir_region
-		# set_global_flag = delete_forbidden_plains_region
-		# set_global_flag = delete_south_sarhal_region
+		 set_global_flag = delete_forbidden_plains_region
+		 set_global_flag = delete_south_sarhal_region
+		 set_global_flag = delete_rahen_region
+		 set_global_flag = delete_haless_region
 		###MANUALLY SETTING THE FLAGS FOR WHICH REGIONS TO DELETE FOR CAMPAIGN
 	}
 	
