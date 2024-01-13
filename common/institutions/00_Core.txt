@@ -193,7 +193,7 @@ feudalism = {
 					has_institution = feudalism
 				}
 			}
-			
+		}	
 			custom_trigger_tooltip = {
 				tooltip = tooltip_feudalism_embraced
 				is_owned_by_trade_company = no
