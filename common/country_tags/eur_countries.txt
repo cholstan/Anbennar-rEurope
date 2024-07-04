@@ -23,6 +23,7 @@ X21 = "countries/Wabensoyo.txt"
 X22 = "countries/Southroy.txt"
 X23 = "countries/Triarchy.txt"
 X24 = "countries/Northern_League.txt"
+X33 = "countries/Doddcodds.txt"
 
 M01 = "countries/Griffon_Empire.txt"
 
